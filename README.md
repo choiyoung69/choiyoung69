@@ -1,4 +1,7 @@
-## Hi there 👋
+![Young's profile_](https://github.com/user-attachments/assets/3da094b3-c318-4259-a83e-a352c9245024)
+
+
+
 
 <!--
 **choiyoung69/choiyoung69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
