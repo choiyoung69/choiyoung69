@@ -1,6 +1,16 @@
 ![Young's profile](https://github.com/user-attachments/assets/61c7fb66-892b-4c9a-a855-6e0a4c93c55a)
-![Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyoung69&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyoung69&show_icons=true&theme=great-gatsby)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=choiyoung6609)](https://velog.io/@choiyoung6609/posts)
+
+## SKills
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+
+
+
+
+
+
+
 
 <!--
 **choiyoung69/choiyoung69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
